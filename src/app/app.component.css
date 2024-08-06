@@ -1,0 +1,16 @@
+h2 {
+    text-align: center;
+    background-color: papayawhip;
+    padding: 20px 20px;
+    font-size: 24px;
+    border-radius: 15px;
+    font-style: italic;
+}
+h1 {
+    text-align: center;
+    background-color: peachpuff;
+    padding: 20px 20px;
+    font-size: 24px;
+    border-radius: 15px;
+    font-style: italic;
+}
